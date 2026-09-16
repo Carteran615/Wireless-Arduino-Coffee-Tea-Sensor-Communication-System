@@ -2,7 +2,7 @@
 A school project for my Electronics class, uses two Arduino boards, HC-05 Bluetooth modules, lasers, and a DHT11 Temperature/Humidity sensor
 
 
-## See the project presentation with images in [this file](project-documentation/coffee_tea-cooled-notification-system.pptx)
+## See the project presentation with images in Project Documentation > Coffee_Tea Cooled Notification System.pptx
 
 
 ## LinkedIn Description:
