@@ -1,5 +1,5 @@
 # Wireless-Arduino-Coffee-Tea-Sensor-Communication-System
-A school project for my Circuits class, uses two Arduino boards, HC-05 Bluetooth modules, lasers, and a DHT11 Temperature/Humidity sensor
+A school project for my Electronics class, uses two Arduino boards, HC-05 Bluetooth modules, lasers, and a DHT11 Temperature/Humidity sensor
 
 
 ## LinkedIn Description:
@@ -18,6 +18,14 @@ A system using two independent Arduino boards connected via Bluetooth to transmi
 - Alert needs to be obvious
   - Audible signals are not ideal because I use earbuds
   - Visual indicators would work great
+ 
+
+## Development Notes:
+- This was made for my Electronics course final project, and meant to be a pair project
+- Partner was reached out to by both myself an the TAs to no success, so the project was fully developed alone
+- AT commands for HC-05 communication and a significant portion of the code structure was learned from a YouTube tutorial:
+  - https://www.youtube.com/watch?v=U8ogrhu3qWo
+  - Channel name is "Ralph S Bacon", video title is "#196 Two-Way Bluetooth Serial Comms for Arduino and other µControllers"
  
 
 ## Setup Description:
