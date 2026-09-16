@@ -2,6 +2,9 @@
 A school project for my Electronics class, uses two Arduino boards, HC-05 Bluetooth modules, lasers, and a DHT11 Temperature/Humidity sensor
 
 
+## See the project presentation with images in [this file](project-documentation/coffee_tea-cooled-notification-system.pptx)
+
+
 ## LinkedIn Description:
 A system using two independent Arduino boards connected via Bluetooth to transmit and process temperature sensor data, to detect and alert the user when a coffee or tea mug gets too cold from another room.
 
